@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tbin", "Tbin\Tbin.csproj", "{AAC0AAEB-0E06-4D63-B11B-E5C74C4DD222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TbinTest", "TbinTest\TbinTest.csproj", "{C92075C6-AA59-4FFB-A805-16486BDDCEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC0AAEB-0E06-4D63-B11B-E5C74C4DD222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC0AAEB-0E06-4D63-B11B-E5C74C4DD222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC0AAEB-0E06-4D63-B11B-E5C74C4DD222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC0AAEB-0E06-4D63-B11B-E5C74C4DD222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92075C6-AA59-4FFB-A805-16486BDDCEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92075C6-AA59-4FFB-A805-16486BDDCEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92075C6-AA59-4FFB-A805-16486BDDCEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92075C6-AA59-4FFB-A805-16486BDDCEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FECD3AD-231D-4E67-8E2D-2FCA984B3F2C}
+	EndGlobalSection
+EndGlobal
